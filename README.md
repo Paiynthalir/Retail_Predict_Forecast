@@ -1,3 +1,11 @@
+## Table of Contents
+- [Retail_Predict_Forecast](#retail_predict_forecast)
+- [Project Organization](#project-organization)
+- [Order of Running the Data Preparation Notebooks](#order-of-running-the-data-preparation-notebooks)
+- [Project Setup](#project-setup)
+- [Custom Functions](#custom-functions)
+- [Quick Commands to Push Changes to Git](#quick-commands-to-push-changes-to-git)
+
 # Retail_Predict_Forecast
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
